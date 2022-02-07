@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" height="35px" alt="Victor-NPM" align="center"/>
 </div>
 <div>
-  <h2>Entre em Contatos</h2>
+  <h2>Entre em Contato</h2>
   <a href="https://www.linkedin.com/in/victoraguiar018/" target="_blank"><img target="_blank" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:victoraguiardev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a> 
 </div>
