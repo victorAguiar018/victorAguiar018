@@ -11,6 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" height="35px" alt="Victor-Git" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px" height="35px" alt="Victor-Sass" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40px" height="35px" alt="Victor-NPM" align="center"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"  width="40px" height="35px" alt="Victor-Next" align="center" />
 </div>
 <div>
   <h2>Entre em Contato</h2>
